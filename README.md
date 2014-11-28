@@ -1,4 +1,4 @@
-simple-captcha
+Simple Captcha
 ==============
 
 PHP+Javascript captcha system
